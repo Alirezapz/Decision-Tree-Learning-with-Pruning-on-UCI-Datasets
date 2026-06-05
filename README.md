@@ -82,7 +82,7 @@ jupyter notebook
 3. Open:
 
 ```
-ML_HW1-2_40023096.ipynb
+ML_DTC.ipynb
 ```
 
 ---
